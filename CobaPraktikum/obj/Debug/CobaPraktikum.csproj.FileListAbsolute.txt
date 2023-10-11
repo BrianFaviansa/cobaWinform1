@@ -1,0 +1,12 @@
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\bin\Debug\CobaPraktikum.exe.config
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\bin\Debug\CobaPraktikum.exe
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\bin\Debug\CobaPraktikum.pdb
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\obj\Debug\CobaPraktikum.csproj.AssemblyReference.cache
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\obj\Debug\CobaPraktikum.Form1.resources
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\obj\Debug\CobaPraktikum.Properties.Resources.resources
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\obj\Debug\CobaPraktikum.csproj.GenerateResource.cache
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\obj\Debug\CobaPraktikum.csproj.CoreCompileInputs.cache
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\obj\Debug\CobaPraktikum.exe
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\obj\Debug\CobaPraktikum.pdb
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\obj\Debug\CobaPraktikum.Login.resources
+C:\01. KULIAH\01. Matkul\03. Semester 3\Pemrograman Berorientasi Obyek\CobaPraktikum\obj\Debug\CobaPraktikum.Loading.resources
